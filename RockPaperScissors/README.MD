@@ -10,3 +10,5 @@ If the two players choose the same “character” it’s a tie, and the game re
 Rock beats Scissors, 
 Paper beats Rock, 
 Scissors beats Paper. 
+
+Used Python's random module to assign a random choice to the cpu so the game is provably fair. 
