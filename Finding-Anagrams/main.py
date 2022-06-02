@@ -4,9 +4,6 @@
 # find_anagrams("below", "elbow") --> True
 
 
-from unittest import result
-
-
 def find_anagram(word, anagram):
     # [assignment] 
     
@@ -33,4 +30,5 @@ def find_anagram(word, anagram):
 
 find_anagram("hello", "check")
 find_anagram("below", "elbow")
+
 
